@@ -1,7 +1,7 @@
 
 ###
 
-<h1 align="left">HeyThere 👋  My name is Mostafa Elbialy</h1>
+<h1 align="left">Hey There 👋  My name is Mostafa Elbialy</h1>
 
 ###
 
